@@ -1,4 +1,4 @@
-![React For Beginners](/react.png)
+![React For Beginners](/reactjs.png)
 
 # React For Beginners
 
